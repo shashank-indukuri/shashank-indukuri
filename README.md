@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shashank Indukuri(@shashank-indukuri)
+- 👀 I’m interested in learning new stuff and build cool websites and mobile apps.
+- 🌱 I’m currently learning React Native 
+- 💞️ I’m looking to collaborate on building realtime mobile applications by using React Native
+- 📫 You can reach me by mailing to shashank.indukuri05@gmail.com
+- Linked profile: https://www.linkedin.com/in/shashankindukuri/
