@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Indukuri(@shashank-indukuri)
 - 👀 I’m interested in learning new stuff and build cool websites and mobile apps.
-- 🌱 I’m currently learning React Native 
+- 🌱 I'm presently learning React Native and improving my MERN Stack skills.
 - 💞️ I’m looking to collaborate on building realtime mobile applications with MERN Stack.
 - 👩🏻‍💻 My Portfolio: https://portfolio-53108.web.app/
 - 📫 You can reach me by mailing to shashank.indukuri05@gmail.com
