@@ -74,7 +74,7 @@
 
 ## ❤ for Views and Followers
 <a href="https://github.com/shashank-indukuri">
-    <img src="https://komarev.com/ghpvc/?username=shashank-indukuri">
+    <img src="https://komarev.com/ghpvc/?username=shashank-indukuri" alt="">
 </a>
 <a href="https://github.com/shashank-indukuri?tab=followers"><img src="https://img.shields.io/github/followers/shashank-indukuri?label=Followers&style=social" alt="GitHub Badge"></a>
 
