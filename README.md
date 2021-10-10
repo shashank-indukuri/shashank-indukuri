@@ -71,7 +71,7 @@
 
 </p>
 
-## ❤ for Views and Followers
+## ❤ for Stars and Followers
 <a href="https://github.com/shashank-indukuri">
     <img src="https://komarev.com/ghpvc/?username=shashank-indukuri" alt="">
 </a>
