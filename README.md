@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="100%" height="320" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/static/optimized/rev-5b9962b/wp-content/uploads/2020/12/full-stack-development.gif" height="175px" /></a> -->
+<a href="#"><img width="100%" height="320" src="https://nextbigtechnology.com/wp-content/uploads/2020/10/2.png" height="270px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shashank Indukuri(@shashank-indukuri)</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
