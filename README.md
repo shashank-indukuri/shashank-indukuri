@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ToDo Web Application](https://github.com/shashank-indukuri/todo)**
+- 🔭 I’m currently learning **IOS application development**.
 
 - 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
 
