@@ -49,8 +49,10 @@
 ## 📊 My Github Stats
 
   <br/>
+  <p>
     <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-indukuri&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shashank-indukuri"><img alt="Shashank Indukuri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-indukuri&langs_count=7&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+ </p>
   <br/>
 
 
