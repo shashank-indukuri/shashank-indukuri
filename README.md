@@ -16,7 +16,7 @@
 
 - 📫 You can reach me by mailing to **shashank.indukuri05@gmail.com**
 
-- ⚡ Fun fact **I love playing games. One of the favourite is FIFA**
+- ⚡ Fun fact **I love playing games. One of the favourite is FIFA.**
 
 - 😄 Pronouns: He/Him
 
