@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **IOS application development and C#**.
+- 🔭 I’m currently learning **IOS Application Development and C#**.
 
 - 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
 
