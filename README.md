@@ -61,7 +61,7 @@
 
 <br/>
 
-## My Github Trophies
+## My Github Trophies:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Shashank Indukuri's Trophies" src="https://github-profile-trophy.vercel.app/?username=shashank-indukuri&theme=darkhub&rank=AA,A,B" /></a>
 
