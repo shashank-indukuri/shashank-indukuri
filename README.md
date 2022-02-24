@@ -10,7 +10,7 @@
 
 - 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 👨‍💻 All of my work is available at **[My Portfolio](https://portfolio-53108.web.app/)**
 
