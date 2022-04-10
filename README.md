@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **iOS Application Development(Swift 5.5) and C#**.
+- 🔭 I’m currently learning **iOS Application Development(Swift 5.5) and Java Spring Boot**.
 
 - 🌱 I'm interested in learning new technologies and **creating amazing websites and mobile apps**.
 
