@@ -14,10 +14,10 @@
 ## 📊 GitHub Stats  
 <p>
   <a href="https://github.com/shashank-indukuri">
-    <img alt="Shashank's Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-indukuri&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+    <img alt="Shashank's Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-indukuri&show_icons=true&count_private=true&theme=prussian&hide_border=true&bg_color=0D1117"/>
   </a>
   <a href="https://github.com/shashank-indukuri">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-indukuri&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-indukuri&langs_count=8&layout=compact&theme=prussian&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
