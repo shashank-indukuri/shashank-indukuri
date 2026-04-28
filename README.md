@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me  
 
-- 🚀 AI Engineer at **Elevance Health**, building enterprise-scale **Generative AI, RAG, and AI Agent solutions**.  
+- 🚀 AI/ML Engineer at **Amazon**, building enterprise-scale **Generative AI, RAG, and AI Agent solutions**.  
 - 🔭 Currently exploring **LLMOps, AI Agents, and scalable architectures with LangGraph, LlamaIndex, and VectorDBs**.  
 - 🌱 Passionate about **Generative AI, NLP, and building developer-first AI products**.  
 - 👯 Open to collaborating on **AI, ML, and open-source projects**.  
